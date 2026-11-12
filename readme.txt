@@ -22,6 +22,8 @@ https://angular.dev/overview
 
 https://www.w3schools.com/
 
+https://developer.spotify.com/documentation/web-api/reference/get-current-users-profile
+
 As well as the class slides
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
